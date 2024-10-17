@@ -1,0 +1,755 @@
+{
+  "users": [
+    {
+      "fisrtname": "",
+      "lastname": "",
+      "mobile": "",
+      "email": "",
+      "password": "",
+      "id": "edb8"
+    }
+  ],
+  "cart": [],
+  "productData": {
+    "men": [
+      {
+        "id": "1",
+        "img": "/DataBase/API Data Images/Fashion/Men/Shirt1.webp",
+        "brand": "H&M",
+        "title": "Loose T-shirt for men",
+        "deal_price": "799",
+        "actual_price": "999",
+        "category": "T-Shirts"
+      },
+      {
+        "id": "2",
+        "img": "/DataBase/API Data Images/Fashion/Men/Shirt12.webp",
+        "brand": "H&M",
+        "title": "Loose Fit T-shirt for men",
+        "deal_price": "699",
+        "actual_price": "799",
+        "category": "T-Shirts"
+      },
+      {
+        "id": "3",
+        "img": "/DataBase/API Data Images/Fashion/Men/Jeans1.webp",
+        "brand": "H&M",
+        "title": "Regular fit Jeans for men",
+        "deal_price": "1799",
+        "actual_price": "1999",
+        "category": "Jeans"
+      },
+      {
+        "id": "4",
+        "img": "/DataBase/API Data Images/Fashion/Men/Jeans2.webp",
+        "brand": "H&M",
+        "title": "Loose Jeans for men",
+        "deal_price": "1999",
+        "actual_price": "2499",
+        "category": "Jeans"
+      },
+      {
+        "id": "5",
+        "img": "/DataBase/API Data Images/Fashion/Men/Cap1.webp",
+        "brand": "H&M",
+        "title": "Cap For men",
+        "deal_price": "999",
+        "actual_price": "1299",
+        "category": "Cap"
+      },
+      {
+        "id": "6",
+        "img": "/DataBase/API Data Images/Fashion/Men/Cap2.webp",
+        "brand": "H&M",
+        "title": "Rough Design Cap for men",
+        "deal_price": "999",
+        "actual_price": "1299",
+        "category": "Cap"
+      },
+      {
+        "id": "7",
+        "img": "/DataBase/API Data Images/Fashion/Men/Shoes1.webp",
+        "brand": "H&M",
+        "title": "Derby shoes for men",
+        "deal_price": "2999",
+        "actual_price": "3499",
+        "category": "Shoes"
+      },
+      {
+        "id": "8",
+        "img": "/DataBase/API Data Images/Fashion/Men/Shoes2.webp",
+        "brand": "H&M",
+        "title": "Derby shoes for men",
+        "deal_price": "2999",
+        "actual_price": "3499",
+        "category": "Shoes"
+      }
+    ],
+    "women": [
+      {
+        "id": "9",
+        "img": "/DataBase/API Data Images/Fashion/Women/Shirt1.webp",
+        "brand": "H&M",
+        "title": "Oversized printed T-shirt For Women",
+        "deal_price": "799",
+        "actual_price": "1299",
+        "category": "T-Shirts"
+      },
+      {
+        "id": "10",
+        "img": "/DataBase/API Data Images/Fashion/Women/Shirt2.webp",
+        "brand": "H&M",
+        "title": "Print-motif T-shirt For Women",
+        "deal_price": "699",
+        "actual_price": "999",
+        "category": "T-Shirts"
+      },
+      {
+        "id": "11",
+        "img": "/DataBase/API Data Images/Fashion/Women/Jeans1.webp",
+        "brand": "H&M",
+        "title": "Wide Fit Jeans For Women",
+        "deal_price": "1999",
+        "actual_price": "2999",
+        "category": "Jeans"
+      },
+      {
+        "id": "12",
+        "img": "/DataBase/API Data Images/Fashion/Women/Jeans2.webp",
+        "brand": "H&M",
+        "title": "Cargo Trousers/Jeans For Women",
+        "deal_price": "919",
+        "actual_price": "2299",
+        "category": "Jeans"
+      },
+      {
+        "id": "13",
+        "img": "/DataBase/API Data Images/Fashion/Women/Cap1.jfif",
+        "brand": "H&M",
+        "title": "Cotton Twill Cap for Women",
+        "deal_price": "699",
+        "actual_price": "999",
+        "category": "Cap"
+      },
+      {
+        "id": "14",
+        "img": "/DataBase/API Data Images/Fashion/Women/Cap2.jfif",
+        "brand": "H&M",
+        "title": "Washed-Look Denim Cap for Women",
+        "deal_price": "799",
+        "actual_price": "999",
+        "category": "Cap"
+      },
+      {
+        "id": "15",
+        "img": "/DataBase/API Data Images/Fashion/Women/Shoes3.webp",
+        "brand": "H&M",
+        "title": "Intertwined-strap Sandals For Women",
+        "deal_price": "1999",
+        "actual_price": "2999",
+        "category": "Shoes"
+      },
+      {
+        "id": "16",
+        "img": "/DataBase/API Data Images/Fashion/Women/Shoes4.webp",
+        "brand": "H&M",
+        "title": "Block-heeled Sandals For Women",
+        "deal_price": "1799",
+        "actual_price": "1999",
+        "category": "Shoes"
+      }
+    ],
+    "kid": [
+      {
+        "id": "17",
+        "img": "/DataBase/API Data Images/Fashion/Kid/Shirt1.jfif",
+        "brand": "H&M",
+        "title": "3-pack T-shirts For Kid",
+        "deal_price": "519",
+        "actual_price": "1299",
+        "category": "T-Shirts"
+      },
+      {
+        "id": "18",
+        "img": "/DataBase/API Data Images/Fashion/Kid/Shirt2.jfif",
+        "brand": "H&M",
+        "title": "3-pack T-shirts For Kid",
+        "deal_price": "849",
+        "actual_price": "1299",
+        "category": "T-Shirts"
+      },
+      {
+        "id": "19",
+        "img": "/DataBase/API Data Images/Fashion/Kid/Jeans3.webp",
+        "brand": "H&M",
+        "title": "Loose Fit Jeans For Kid",
+        "deal_price": "1799",
+        "actual_price": "1999",
+        "category": "Jeans"
+      },
+      {
+        "id": "20",
+        "img": "/DataBase/API Data Images/Fashion/Kid/Jeans4.webp",
+        "brand": "H&M",
+        "title": "Jeggings For Kid",
+        "deal_price": "899",
+        "actual_price": "1199",
+        "category": "Jeans"
+      },
+      {
+        "id": "21",
+        "img": "/DataBase/API Data Images/Fashion/Kid/Cap3.jfif",
+        "brand": "H&M",
+        "title": "Cotton Cap For Kid",
+        "deal_price": "749",
+        "actual_price": "999",
+        "category": "Cap"
+      },
+      {
+        "id": "22",
+        "img": "/DataBase/API Data Images/Fashion/Kid/Cap4.jfif",
+        "brand": "H&M",
+        "title": "Twill Cap For Kid",
+        "deal_price": "399",
+        "actual_price": "699",
+        "category": "Cap"
+      },
+      {
+        "id": "23",
+        "img": "/DataBase/API Data Images/Fashion/Kid/Shoes3.jfif",
+        "brand": "H&M",
+        "title": "Print-motif Pool Shoes For Kid",
+        "deal_price": "799",
+        "actual_price": "1299",
+        "category": "Shoes"
+      },
+      {
+        "id": "24",
+        "img": "/DataBase/API Data Images/Fashion/Kid/Shoes4.jfif",
+        "brand": "H&M",
+        "title": "Trainers For Kid",
+        "deal_price": "899",
+        "actual_price": "1299",
+        "category": "Shoes"
+      }
+    ],
+    "accessories": [
+      {
+        "id": "25",
+        "img": "/DataBase/API Data Images/Fashion/Accessories/all1.webp",
+        "brand": "H&M",
+        "title": "2-pack bracelets",
+        "deal_price": "399",
+        "actual_price": "499",
+        "category": "Mix"
+      },
+      {
+        "id": "26",
+        "img": "/DataBase/API Data Images/Fashion/Accessories/all2.webp",
+        "brand": "H&M",
+        "title": "Chunky dome earrings",
+        "deal_price": "299",
+        "actual_price": "449",
+        "category": "Mix"
+      },
+      {
+        "id": "27",
+        "img": "/DataBase/API Data Images/Fashion/Accessories/men1.jfif",
+        "brand": "H&M",
+        "title": "5-pack rings",
+        "deal_price": "319",
+        "actual_price": "449",
+        "category": "Men"
+      },
+      {
+        "id": "28",
+        "img": "/DataBase/API Data Images/Fashion/Accessories/men2.jfif",
+        "brand": "H&M",
+        "title": "2-pack bracelets",
+        "deal_price": "399",
+        "actual_price": "499",
+        "category": "Men"
+      },
+      {
+        "id": "29",
+        "img": "/DataBase/API Data Images/Fashion/Accessories/women2.jfif",
+        "brand": "H&M",
+        "title": "Crossbody bag",
+        "deal_price": "1499",
+        "actual_price": "1999",
+        "category": "Women"
+      },
+      {
+        "id": "30",
+        "img": "/DataBase/API Data Images/Fashion/Accessories/women3.jfif",
+        "brand": "H&M",
+        "title": "Pendant necklace",
+        "deal_price": "299",
+        "actual_price": "499",
+        "category": "Women"
+      },
+      {
+        "id": "31",
+        "img": "/DataBase/API Data Images/Fashion/Accessories/kid2.jfif",
+        "brand": "H&M",
+        "title": "2-pack hair claws",
+        "deal_price": "299",
+        "actual_price": "499",
+        "category": "Kid"
+      },
+      {
+        "id": "32",
+        "img": "/DataBase/API Data Images/Fashion/Accessories/kid3.jfif",
+        "brand": "H&M",
+        "title": "2-pack sunglasses",
+        "deal_price": "799",
+        "actual_price": "999",
+        "category": "Kid"
+      }
+    ],
+    "mobile": [
+      {
+        "id": "33",
+        "img": "/DataBase/API Data Images/Electronics/Mobile Phone/Iphone/apple1.jpg",
+        "brand": "iPhone",
+        "title": "Apple iphone 15 (128 GB) - Blue",
+        "deal_price": "70900",
+        "actual_price": "79900",
+        "category": "iPhone"
+      },
+      {
+        "id": "34",
+        "img": "/DataBase/API Data Images/Electronics/Mobile Phone/Iphone/apple2.jpg",
+        "brand": "iPhone",
+        "title": "Apple iphone 13 (128GB) - Blue",
+        "deal_price": "48799",
+        "actual_price": "59900",
+        "category": "iPhone"
+      },
+      {
+        "id": "35",
+        "img": "/DataBase/API Data Images/Electronics/Mobile Phone/OnePlus/onePlus1.jpg",
+        "brand": "OnePlus",
+        "title": "OnePlus 12 (Silky Black, 12GB RAM, 256GB Storage)",
+        "deal_price": "59999",
+        "actual_price": "64999",
+        "category": "Oneplus"
+      },
+      {
+        "id": "36",
+        "img": "/DataBase/API Data Images/Electronics/Mobile Phone/OnePlus/onePlus2.jpg",
+        "brand": "OnePlus",
+        "title": "OnePlus 12R (Sunset Dune, 8GB RAM, 256GB Storage)",
+        "deal_price": "42999",
+        "actual_price": "45999",
+        "category": "Oneplus"
+      },
+      {
+        "id": "37",
+        "img": "/DataBase/API Data Images/Electronics/Mobile Phone/Samsung/samsung4.jpg",
+        "brand": "Samsung",
+        "title": "Samsung Galaxy S21 FE 5G (Olive, 8GB RAM, 256GB Storage) with Snapdragon 888 Processor",
+        "deal_price": "28999",
+        "actual_price": "74999",
+        "category": "Samsung"
+      },
+      {
+        "id": "38",
+        "img": "/DataBase/API Data Images/Electronics/Mobile Phone/Samsung/samsung5.jpg",
+        "brand": "Samsung",
+        "title": "Samsung Galaxy S23 Ultra 5G AI Smartphone (Cream, 12GB, 256GB Storage)",
+        "deal_price": "79999",
+        "actual_price": "149999",
+        "category": "Samsung"
+      },
+      {
+        "id": "39",
+        "img": "/DataBase/API Data Images/Electronics/Mobile Phone/Google/google2.jpg",
+        "brand": "Google",
+        "title": "Pixel 7a 5G (Charcoal, 8GB RAM, 128GB Storage)",
+        "deal_price": "38999",
+        "actual_price": "43999",
+        "category": "Google"
+      },
+      {
+        "id": "40",
+        "img": "/DataBase/API Data Images/Electronics/Mobile Phone/Google/google3.jpg",
+        "brand": "Google",
+        "title": "Pixel 8 5G (Obsidian, 8GB RAM, 128GB Storage)Smartphone..,",
+        "deal_price": "57949",
+        "actual_price": "89999",
+        "category": "Google"
+      }
+    ],
+    "headphone": [
+      {
+        "id": "41",
+        "img": "/DataBase/API Data Images/Electronics/Head Phone/Boat/boat1.jpg",
+        "brand": "Boat",
+        "title": "boAt Rockerz 551Anc Hybrid Active Noise Cancellation Over Ear Headphones with Up to 100H Playtime, ASAP Charge, Ambient Sound Mode &Dual Eq Modes, Enx Technology(Stellar Black)",
+        "deal_price": "2598",
+        "actual_price": "7990",
+        "category": "Boat"
+      },
+      {
+        "id": "42",
+        "img": "/DataBase/API Data Images/Electronics/Head Phone/Boat/boat2.jpg",
+        "brand": "Boat",
+        "title": "boAt Rockerz 450 Bluetooth On Ear Headphones with Mic, Upto 15 Hours Playback, 40MM Drivers, Padded Ear Cushions, Integrated Controls and Dual Modes(Luscious Black)",
+        "deal_price": "1998",
+        "actual_price": "3900",
+        "category": "Boat"
+      },
+      {
+        "id": "43",
+        "img": "/DataBase/API Data Images/Electronics/Head Phone/JBL/jbl4.jpg",
+        "brand": "JBL",
+        "title": "JBL Tune 520BT Wireless On Ear Headphones with Mic, Pure Bass Sound, Upto 57 Hrs Playtime, Speedcharge, Customizable Bass with Headphones App, Lightweight, Bluetooth 5.3 (Blue)",
+        "deal_price": "3498",
+        "actual_price": "4999",
+        "category": "JBL"
+      },
+      {
+        "id": "44",
+        "img": "/DataBase/API Data Images/Electronics/Head Phone/JBL/jbl5.jpg",
+        "brand": "JBL",
+        "title": "JBL Tune 720BT Wireless Over Ear Headphones with Mic, Pure Bass Sound, Upto 76 Hrs Playtime, Speedcharge, Dual Pairing, Customizable Bass with Headphones App, Lightweight, Bluetooth 5.3 (Black)",
+        "deal_price": "4998",
+        "actual_price": "6499",
+        "category": "JBL"
+      },
+      {
+        "id": "45",
+        "img": "/DataBase/API Data Images/Electronics/Head Phone/Sony/sony2.jpg",
+        "brand": "Sony",
+        "title": "Sony WH-CH720N, Wireless Over-Ear Active Noise Cancellation Headphones with Mic, up to 35 Hours Playtime, Multi-Point Connection, App Support, AUX & Voice Assistant Support for Mobile Phones (Black)",
+        "deal_price": "7989",
+        "actual_price": "14990",
+        "category": "Sony"
+      },
+      {
+        "id": "46",
+        "img": "/DataBase/API Data Images/Electronics/Head Phone/Sony/sony3.jpg",
+        "brand": "Sony",
+        "title": "Sony WH-1000XM4 Industry Leading Wireless Noise Cancellation Bluetooth Over Ear Headphones with Mic for Phone Calls, 30 Hours Battery Life, Quick Charge, AUX, Touch Control and Voice Control - Black",
+        "deal_price": "19989",
+        "actual_price": "29990",
+        "category": "Sony"
+      },
+      {
+        "id": "47",
+        "img": "/DataBase/API Data Images/Electronics/Head Phone/Zebronics/zeb2.jpg",
+        "brand": "Zebronics",
+        "title": "ZEBRONICS Duke 60hrs Playtime Bluetooth Wireless Over Ear Headphone with Mic (Black",
+        "deal_price": "1198",
+        "actual_price": "1999",
+        "category": "Zebronics"
+      },
+      {
+        "id": "48",
+        "img": "/DataBase/API Data Images/Electronics/Head Phone/Zebronics/zeb3.jpg",
+        "brand": "Zebronics",
+        "title": "ZEBRONICS Thunder Bluetooth 5.3 Wireless Over ear Headphones with 60H Backup, Gaming Mode, Dual Pairing, ENC, AUX, Micro SD, Voice Assistant, Comfortable Earcups, Call Function(Sea Green)",
+        "deal_price": "698",
+        "actual_price": "1399",
+        "category": "Zebronics"
+      }
+    ],
+    "laptop": [
+      {
+        "id": "49",
+        "img": "/DataBase/API Data Images/Electronics/Laptop/Asus/asus1.jpg",
+        "brand": "Asus",
+        "title": "ASUS Vivobook 14 Thin and Light Laptop, IntelCore i3-1215U 12th Gen, 14 (35.56 cm) FHD, (8 GB RAM/512GB SSD/Win11/Office 2021/Fingerprint/42WHr /Blue/1.40 kg), X1404ZA-NK321WS",
+        "deal_price": "33990",
+        "actual_price": "56990",
+        "category": "Asus"
+      },
+      {
+        "id": "50",
+        "img": "/DataBase/API Data Images/Electronics/Laptop/Asus/asus2.jpg",
+        "brand": "Asus",
+        "title": "ASUS Vivobook 15, Intel Core i5-12500H 12th Gen, 15.6 (39.62 cm) FHD, Thin and Light Laptop (8GB/512GB/Win11/Office 2021/Blue/1.7 kg), X1502ZA-EJ523WS",
+        "deal_price": "44999",
+        "actual_price": "70990",
+        "category": "Asus"
+      },
+      {
+        "id": "51",
+        "img": "/DataBase/API Data Images/Electronics/Laptop/Dell/dell3.jpg",
+        "brand": "Dell",
+        "title": "Dell 14 Laptop, Intel 13th Generation Core i5-1334U Processor, 8GB DDR5 & 512GB SSD, 14 (35.52cm) FHD+ AG 250nits, Windows 11 + MSO'21 + 15 Month Mcafee Antivirus, Titan Grey, Thin & Light- 1.55kg",
+        "deal_price": "50990",
+        "actual_price": "62549",
+        "category": "Dell"
+      },
+      {
+        "id": "52",
+        "img": "/DataBase/API Data Images/Electronics/Laptop/Dell/dell4.jpg",
+        "brand": "Dell",
+        "title": "Dell G15-5530 Gaming Laptop, Intel Core i5-13450HX Processor, 16GB DDR5, 512GB,NVIDIA RTX 3050,6GB GDDR6, 15.6 (39.62cm) FHD 120Hz 250 nits, Backlit KB Orange,Win 11 + MSO'21,Dark Shadow Gray, 2.65kg",
+        "deal_price": "69990",
+        "actual_price": "103436",
+        "category": "Dell"
+      },
+      {
+        "id": "53",
+        "img": "/DataBase/API Data Images/Electronics/Laptop/HP/hp3.jpg",
+        "brand": "HP",
+        "title": "HP Laptop 15s, 12th Gen Intel Core i5-1235U, 15.6-inch (39.6 cm), FHD, 16GB DDR4, 512GB SSD, Intel Iris Xe graphics, 720p HD camera, Backlit KB, Thin & Light (Win 11, Silver, 1.69 kg), fy5009TU",
+        "deal_price": "51999",
+        "actual_price": "58000",
+        "category": "HP"
+      },
+      {
+        "id": "54",
+        "img": "/DataBase/API Data Images/Electronics/Laptop/HP/hp4.jpg",
+        "brand": "HP",
+        "title": "HP Laptop 15s, 12th Gen Intel Core i3, 15.6-inch (39.6 cm), 8GB DDR4, 512GB SSD, Thin & light, Dual speakers (Win 11, MSO 2021, Silver, 1.69 kg), fq5007TU / FQ5327TU",
+        "deal_price": "35990",
+        "actual_price": "51134",
+        "category": "HP"
+      },
+      {
+        "id": "55",
+        "img": "/DataBase/API Data Images/Electronics/Laptop/Lenovo/lenovo3.jpg",
+        "brand": "Lenovo",
+        "title": "Lenovo IdeaPad 1 AMD Ryzen 5 5500U 15.6 (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/HD Camera/1 Year ADP Free/Grey/1.6Kg), 82R400BGIN",
+        "deal_price": "34490",
+        "actual_price": "68990",
+        "category": "Lenovo"
+      },
+      {
+        "id": "56",
+        "img": "/DataBase/API Data Images/Electronics/Laptop/Lenovo/lenovo4.jpg",
+        "brand": "Lenovo",
+        "title": "[Smart Choice] Lenovo IdeaPad Gaming 3 Laptop AMD Ryzen 5 5500H 15.6 (39.62cm) FHD IPS 300nits 144Hz (8GB/512GB SSD/Win 11/NVIDIA RTX 2050 4GB/Alexa/3 Month Game Pass/Shadow Black/2.32Kg), 82K20289IN",
+        "deal_price": "43990",
+        "actual_price": "77990",
+        "category": "Lenovo"
+      }
+    ],
+    "gamingConsole": [
+      {
+        "id": "57",
+        "img": "/DataBase/API Data Images/Electronics/Gaming Console/PSP Console/psp1.jpg",
+        "brand": "Gameson",
+        "title": "Gameson PSP Game Player with Inbuilt POCKET MP4 PLAYER WITH 1000 GAMES INCLUDED 2 GB with VINTAGE GAMES MARIO,CONTRA,TEKKEN 3 AND ALL OTHER ACTION RACING SHOOTING ARCADE PUZZLE CAR RACING SPORTS",
+        "deal_price": "2899",
+        "actual_price": "8999",
+        "category": "PSP Console"
+      },
+      {
+        "id": "58",
+        "img": "/DataBase/API Data Images/Electronics/Gaming Console/PSP Console/psp2.jpg",
+        "brand": "NextTech",
+        "title": "NextTech PSP Game Player with Inbuilt 10000 Games, Hi-Speed USB Support, SRS Wow HD, Camera, 8GB Storage Along with 4.3 LCD Screen",
+        "deal_price": "2898",
+        "actual_price": "4999",
+        "category": "PSP Console"
+      },
+      {
+        "id": "59",
+        "img": "/DataBase/API Data Images/Electronics/Gaming Console/Handheld Games/handheld3.jpg",
+        "brand": "RFV1",
+        "title": "RFV1 Video Game for Kids 500 in 1 Retro Mini Portable Game Box with Remote | 3.5 Inch Big Display with TV Support Handheld Retro Gaming console with Multiple Games like Mario (Multicolor)",
+        "deal_price": "1399",
+        "actual_price": "2799",
+        "category": "Handheld Games"
+      },
+      {
+        "id": "60",
+        "img": "/DataBase/API Data Images/Electronics/Gaming Console/Handheld Games/handheld4.jpg",
+        "brand": "VGRASSP",
+        "title": "VGRASSP Handheld Video Game Console, Retro Mini Game with 400 Classic Sup Game TV Compatible for Kids, Rechargeable 8 Bit Classic – Colour and Design as per Stock",
+        "deal_price": "599",
+        "actual_price": "1299",
+        "category": "Handheld Games"
+      },
+      {
+        "id": "61",
+        "img": "/DataBase/API Data Images/Electronics/Gaming Console/Plug & Video Games/videoGames2.jpg",
+        "brand": "GSH",
+        "title": "GSH Gamestick GD30 Video Game Built-in 35K+ 2D 3D Classic RETORO Games Wireless Controller | HDMI Output",
+        "deal_price": "5129",
+        "actual_price": "6999",
+        "category": "Video Games"
+      },
+      {
+        "id": "62",
+        "img": "/DataBase/API Data Images/Electronics/Gaming Console/Plug & Video Games/videoGames3.jpg",
+        "brand": "Viart Creation",
+        "title": "Viart Creation™ Video Games for Kids Wireless video games for tv gaming 64GB Old School Station Video game HD Games Console Built in 21000 Game Console HDMI Output TV Video Game Console (20K)",
+        "deal_price": "2399",
+        "actual_price": "4999",
+        "category": "Video Games"
+      },
+      {
+        "id": "63",
+        "img": "/DataBase/API Data Images/Electronics/Gaming Console/Gamepads/gamepad3.jpg",
+        "brand": "EvoFox",
+        "title": "EvoFox One Universal Bluetooth Gamepad For PC, iOS, iPadOS, Android and PS4, Dynamic Rgb Lights, Transparent Design, Programable Buttons, Turbo Mode with The Dojo App, Detachable Mobile Clamp, and More",
+        "deal_price": "2429",
+        "actual_price": "3499",
+        "category": "Gamepads"
+      },
+      {
+        "id": "64",
+        "img": "/DataBase/API Data Images/Electronics/Gaming Console/Gamepads/gamepad4.jpg",
+        "brand": "Enter",
+        "title": "Enter Usb Game Pad With Vibration E-Gpv, PC, Gamepad",
+        "deal_price": "350",
+        "actual_price": "749",
+        "category": "Gamepads"
+      }
+    ],
+    "books": [
+      {
+        "id": "65",
+        "img": "/DataBase/API Data Images/Books/Religion & Spirituality/Book1.jpg",
+        "author": "Lee Lyon",
+        "title": "The 112 Meditations From the Book of Divine Wisdom: The meditations from the Vijnana Bhairava Tantra, with commentary and guided practice",
+        "deal_price": "815",
+        "actual_price": "1436",
+        "category": "Religion & Sprituality"
+      },
+      {
+        "id": "66",
+        "img": "/DataBase/API Data Images/Books/Religion & Spirituality/Book2.jpg",
+        "author": "Satyarth Nayak",
+        "title": "Mahagatha: 100 Tales from the Puranas ",
+        "deal_price": "369",
+        "actual_price": "599",
+        "category": "Religion & Sprituality"
+      },
+      {
+        "id": "67",
+        "img": "/DataBase/API Data Images/Books/Contemporay Fiction/Book1.jpg",
+        "author": "Paulo Coelho",
+        "title": "The Alchemist",
+        "deal_price": "246",
+        "actual_price": "399",
+        "category": "Contemporary Fiction"
+      },
+      {
+        "id": "68",
+        "img": "/DataBase/API Data Images/Books/Contemporay Fiction/Book2.jpg",
+        "author": "Saksham Garg",
+        "title": "Samsara: Enter The Valley Of The Gods",
+        "deal_price": "154",
+        "actual_price": "250",
+        "category": "Contemporary Fiction"
+      },
+      {
+        "id": "69",
+        "img": "/DataBase/API Data Images/Books/Children's Interactive & Activity Books/Book1.jpg",
+        "author": "Team Pagasus",
+        "title": "1001 Jumbo Brain Booster Activities for 5 to 8 Years Old Kids|Enhance the Child Mind with Cognitive Excellence with Interactive Activity Book",
+        "deal_price": "282",
+        "actual_price": "495",
+        "category": "Children Activity Books"
+      },
+      {
+        "id": "70",
+        "img": "/DataBase/API Data Images/Books/Children's Interactive & Activity Books/Book2.jpg",
+        "author": "Wonder House Books",
+        "title": "Shlokas and Mantras - Activity Book For Kids - Illustrated Book With Engaging Activities and Sticker Sheets ",
+        "deal_price": "157",
+        "actual_price": "249",
+        "category": "Children Activity Books"
+      },
+      {
+        "id": "71",
+        "img": "/DataBase/API Data Images/Books/Analysis & Strategy/Book1.jpg",
+        "author": "Morgan Housel",
+        "title": "The Psychology of Money",
+        "deal_price": "259",
+        "actual_price": "399",
+        "category": "Analysis & Strategy"
+      },
+      {
+        "id": "72",
+        "img": "/DataBase/API Data Images/Books/Analysis & Strategy/Book2.jpg",
+        "author": "Cal Newport",
+        "title": "Deep Work: Rules for Focused Success in a Distracted World [Paperback] Newport, Cal",
+        "deal_price": "231",
+        "actual_price": "399",
+        "category": "Analysis & Strategy"
+      }
+    ],
+    "homeDecor": [
+      {
+        "id": "73",
+        "img": "/DataBase/API Data Images/Home Decor/Paintings/Painting1.jpg",
+        "brand": "Genric",
+        "title": "Attractive Wall Paniting Design For Home Decor || Wall Art for living Room Bedroom Drawing Room Set of 3 || Home Decoretion (Animal Print)",
+        "deal_price": "299",
+        "actual_price": "999",
+        "category": "Paintings"
+      },
+      {
+        "id": "74",
+        "img": "/DataBase/API Data Images/Home Decor/Paintings/Painting2.jpg",
+        "brand": "Ocean Crafts",
+        "title": "Ocean Crafts Nature Wall Art Set of 5 3D Framed Paintings Home Decor Large Size (125x60cm) Divine Blessings for Living Spaces (10)",
+        "deal_price": "1499",
+        "actual_price": "3599",
+        "category": "Paintings"
+      },
+      {
+        "id": "75",
+        "img": "/DataBase/API Data Images/Home Decor/Vases/Vases1.jpg",
+        "brand": "The Tied Ribbons Store",
+        "title": "TIED RIBBONS Ceramic Face Shape Flower Vase Pot (9.8 inch x 3.9 Inch, White) for Artificial Flowers Plants Home Decor Office Bedroom Living Room Farmhouse Table Corner Decoration Items",
+        "deal_price": "549",
+        "actual_price": "2499",
+        "category": "Vases"
+      },
+      {
+        "id": "76",
+        "img": "/DataBase/API Data Images/Home Decor/Vases/Vases2.jpg",
+        "brand": "The Tied Ribbons Store",
+        "title": "TIED RIBBONS Decorative Ceramic Vase (Multi, 31.7 cm x 10.1 cm) for Flower Plants Home Decor Living Room Bedroom Hall Kitchen Dining Table Decoration Items",
+        "deal_price": "870",
+        "actual_price": "2699",
+        "category": "Vases"
+      },
+      {
+        "id": "77",
+        "img": "/DataBase/API Data Images/Home Decor/Idols & Figurines/Idols1.jpg",
+        "brand": "Global Grabbers",
+        "title": "Global Grabbers new 25 centimetre Meditating sitting Buddha statue showpiece idol home decor items for living room and gifts (1, Orange Black)",
+        "deal_price": "299",
+        "actual_price": "2000",
+        "category": "Idols & Figurines"
+      },
+      {
+        "id": "78",
+        "img": "/DataBase/API Data Images/Home Decor/Idols & Figurines/Idols2.jpg",
+        "brand": "The Kriday Kraft Store",
+        "title": "KridayKraft Metal Ganesha ji Statue,Ganpati Wall Hanging Sculpture Lord Ganesh Idol Lucky Feng Shui Wall Decor Your Home, Office,Religious Gift Article Decorative,Showpiece Figurines...",
+        "deal_price": "274",
+        "actual_price": "798",
+        "category": "Idols & Figurines"
+      },
+      {
+        "id": "79",
+        "img": "/DataBase/API Data Images/Home Decor/Wall Scluptures/Wall1.jpg",
+        "brand": "The Art Vibes Store",
+        "title": "Artvibes Decorative Wall Hanging Wooden Art Decoration item for Living Room | Bedroom | Home Decor | Gifts | Quotes Decor Item | Wall Art For Hall | Mdf Wall Decoration, Set of 6(WH_3271N)",
+        "deal_price": "228",
+        "actual_price": "999",
+        "category": "Wall Sculptures"
+      },
+      {
+        "id": "80",
+        "img": "/DataBase/API Data Images/Home Decor/Wall Scluptures/Wall2.jpg",
+        "brand": "The Art Vibes Store",
+        "title": "Artvibes Wall Hanging Wooden Art Decoration item for Living Room | Bedroom | Home Decor | Gifts | Quotes Decor Item | Wall Art For Hall | Mdf Wall Decor, Set of 6 (WH_3208N)",
+        "deal_price": "227",
+        "actual_price": "999",
+        "category": "Wall Sculptures"
+      }
+    ]
+  }
+}

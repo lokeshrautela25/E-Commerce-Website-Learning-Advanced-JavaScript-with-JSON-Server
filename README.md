@@ -5,9 +5,11 @@ This repository is designed for learners who want to take their JavaScript skill
 ## Key Concepts Covered
 
 - CRUD Operations: Perform Create, Read, Update, and Delete operations using a JSON server.
+- Import & Export: Create components and performing import export with that.
 - DOM Manipulation: Manage and dynamically update the website's structure using JavaScript.
 - Local Storage: Store and retrieve user data locally to maintain a persistent state.
 - Advanced JavaScript: Enhance your understanding of modern JavaScript practices by integrating external data sources using JSON.
+- Higher-Order Functions: Explore functions like .forEach(), .map(), .filter(), .sort() and .reduce() to manipulate arrays effectively.
 
 ## Features of the Website
 
