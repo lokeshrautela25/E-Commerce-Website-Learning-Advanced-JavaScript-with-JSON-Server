@@ -38,4 +38,5 @@ Don't forget to follow me on GitHub and give this repository a star if it helped
 
 ## Author
 Lokesh Rautela
+
 Full Stack Web Developer
